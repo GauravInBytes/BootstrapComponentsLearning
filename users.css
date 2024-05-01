@@ -1,0 +1,11 @@
+
+  @media (min-width: 767px) {
+    .user-menu {
+      justify-content: center !important;
+      margin-top: 20px;
+    }
+  }
+  
+  .user{
+    height: 160px;
+  }
